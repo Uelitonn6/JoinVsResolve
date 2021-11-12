@@ -1,4 +1,5 @@
-<h2>:warning: Join vs Resolve</h2>
+<h1>Join vs Resolve</h1>
+<h2>:warning: Para entender melhor olhe o arquivo e faça testes.</h2>
 
 </br>
 
